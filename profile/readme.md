@@ -5,7 +5,7 @@ DCHX (Discord Hacks) is a lightweight custom client for discord with features us
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://github.com/DSCHX/DCHX/wiki)
 
 ## Authors
 
